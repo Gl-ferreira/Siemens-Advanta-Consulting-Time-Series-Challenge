@@ -1,6 +1,6 @@
 # Siemens-Advanta-Consulting-Project
 
-Siemens Advanta is a global consulting and trusted implementation partmer for digital and sustainability transformations on an enterprise level.
+Siemens Advanta is a global consulting and trusted implementation partner for digital and sustainability transformations on an enterprise level.
 
 As part of the course "Business Cases with Data Science" at NOVA IMS, we had the opportunity to work on a Time Series case study using real-world data provided by **Siemens Advanta Consulting**. The case was introduced and guided by two Siemens representatives- **Edward Graf** (Senior Project Manager) and **Hande Gündüz** (Senior Consultant)- who generously shared their insights, answered our questions about the project, and gave us a deeper understanding of their day-to-day work in data-driven consulting. 
 
